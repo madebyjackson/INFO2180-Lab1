@@ -1,0 +1,31 @@
+body {
+    background-color: #0D1C42;
+}
+
+h1 {
+    color: #44CCAC;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 26px
+}
+
+h2 {
+    color: #6060DD;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 21px
+}
+
+p {
+    color: #F5EFE3;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 75px auto;
+}
